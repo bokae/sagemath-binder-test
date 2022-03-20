@@ -1,3 +1,3 @@
 # Sagemath binder test
 
-https://mybinder.org/v2/gh/bokae/sagemath-binder-test/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bokae/sagemath-binder-test/HEAD)
